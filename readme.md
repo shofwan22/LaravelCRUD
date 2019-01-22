@@ -26,22 +26,22 @@ Cari file dengan nama detik.sql di dalam project untuk di import ke database and
 
 Kemudian buka file .env anda dan sesuaikan konfigurasi database anda pada bagian seperti di bawah ini 
 ```sh
-$ DB_CONNECTION=mysql
-$ DB_HOST=127.0.0.1
-$ DB_PORT=3306
-$ DB_DATABASE=homestead
-$ DB_USERNAME=homestead
-$ DB_PASSWORD=secret
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=homestead
+DB_USERNAME=homestead
+DB_PASSWORD=secret
 ```
 Ubahlah pada bagian DB_DATABASE sesuai dengan nama database yang anda buat seperti contoh dibawah ini 
 ```sh
-$ DB_DATABASE=detik
+DB_DATABASE=detik
 ```
 
 Kemudian sesuaikan username dan password databasenya seperti pada bagian di bawah ini,jika database anda tidak memiliki password, maka kosongkan saja pada bagian DB_PASSWORD.
 ```sh
-$ DB_USERNAME=root
-$ DB_PASSWORD=
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 Jika sudah silahkan membuka web tersebut di browser anda, dan jangan lupa untuk menambahkan /public pada bagian belakang url yang anda ketik.
