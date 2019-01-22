@@ -13,7 +13,8 @@ $ composer update --no-scripts
 ```
 
 Kemudian cari file bernama .env.example di dalam folder project , dan buka isi file tersebut.
-Selanjutnya buat file baru dengan nama .env , dan copy semua isi dari file .env.example , setelah itu di save.
+
+Selanjutnya buat file baru dengan nama .env , dan copy semua isi dari file .env.example ke dalam file .env, setelah itu di save.
 
 Kemudian jalankan perintah
 ```sh
