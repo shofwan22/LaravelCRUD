@@ -1,0 +1,62 @@
+.tbl-add{
+	margin-bottom: 2%;
+}
+
+/*UPLOAD IMAGE*/
+.dash{ 
+  border: 4px dashed black;
+}
+.dash p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: black;
+  font-family: Arial;
+}
+.dash input{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 30%;
+  outline: none;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.eddash{ 
+  border: 4px dashed black;
+}
+.eddash p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: black;
+  font-family: Arial;
+}
+.eddash input{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 92%;
+  height: 78%;
+  outline: none;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.info{
+	font-weight: bold;
+}
+
+.img-container{
+  width: 100%;
+  height: 188px;
+  overflow-y: scroll;
+}
+
+.prev{
+  width: 100%;
+}
