@@ -1,4 +1,4 @@
-# CRUD Portal Berita With Laravel
+# Simple CRUD With Laravel
 
 # Installation
 
