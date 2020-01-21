@@ -4,7 +4,7 @@
 
 Download terlebih dahulu filenya dengan perintah seperti di bawah
 ```sh
-$ git clone https://github.com/shofwan22/detik.git
+$ git clone https://github.com/shofwan22/LaravelCRUD.git
 ```
 Kemudian jalankan perintah-perintah di bawah ini
 ```sh
